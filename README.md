@@ -1,0 +1,4 @@
+bingo
+=====
+
+Binary GO Project
